@@ -1,3 +1,5 @@
+# robofriends: why have real friends when you can have robofriends 😉 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
