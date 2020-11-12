@@ -1,4 +1,5 @@
-# robofriends: why have real friends when you can have robofriends 😉 
+# robofriends
+## why have real friends when you can have robofriends 😉 
 
 # Getting Started with Create React App
 
