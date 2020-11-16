@@ -1,6 +1,8 @@
 # robofriends
 ## why have real friends when you can have robofriends 😉 
 
+![logo](https://github.com/lasnab/robofriends/blob/master/logo.png?raw=true)
+
 Why have real friends, when you can have robofriends? 😉 
 Robofriends is one of my initial experiences with using React. I prefer to learn new things by directly applying it. This simple web app is an example of that. Robofriends is a React app which uses components, jsx, API's, json and npm to fetch, stylise, display and interact with data. Dynamic, real-time search functionality is implemented to search your robofriends by their full or part names! 
 
